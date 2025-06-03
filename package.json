@@ -11,5 +11,13 @@
   "dependencies": {
     "express": "^5.1.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maninmao/miniprostudent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maninmao/miniprostudent/issues"
+  },
+  "homepage": "https://github.com/maninmao/miniprostudent#readme",
   "description": ""
 }

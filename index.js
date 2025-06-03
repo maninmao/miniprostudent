@@ -16,5 +16,5 @@ app.put('/editprofile', (req, res) => {res.send('<html><body>INSIDE EDIT API...<
 
 
 
-app.listen(5002, () =>
-    console.log('EXPRESS Server Started at Port No: 5002!!!'));
+app.listen(5052, () =>
+    console.log('EXPRESS Server Started at Port No: 5052!!!'));
